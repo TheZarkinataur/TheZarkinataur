@@ -1,6 +1,6 @@
 # Hi there 👋
-## My name is Bob......well not really but that's all you are getting from me on the internet :-)
-## I'm a high school teacher in Australia who works with Computing Studies students.
+### My name is Bob......well not really but that's all you are getting from me on the internet :-)
+### I'm a high school teacher in Australia who works with Computing Studies students.
 
 ### I'm currently working on getting my students to engage with web applications and designing functional tools using HTML, CSS, Javascript and SQLLite. I hope it goes well 🤫.
 
